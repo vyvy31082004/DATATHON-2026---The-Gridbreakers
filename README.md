@@ -27,7 +27,7 @@ DATATHON-2026---The-Gridbreakers/
 │   └── Baseline forecasting model
 │
 ├── multiple.ipynb
-│   └── Multiple model experiments & comparisons
+│   └── Multiple choice questions 
 │
 ├── revenue_forecasting.ipynb
 │   └── Main notebook for training and forecasting revenue
@@ -50,17 +50,7 @@ Install Python packages before running the notebooks.
 
 Recommended Python version:
 
-```bash
-Python 3.10+
-```
-
-Install dependencies:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm jupyter
-```
-
-Or using requirements.txt:
+Using requirements.txt:
 
 ```bash
 pip install -r requirements.txt
@@ -123,50 +113,13 @@ Evaluation
 
 ---
 
-# 🧠 Models Used
 
-Possible models used in this project:
 
-* Linear Regression
-* Random Forest
-* XGBoost
-* LightGBM
-* Time-Series Forecasting
 
-Evaluation metrics:
-
-* MAE
-* RMSE
-* MAPE
-
----
-
-# 📈 Features
-
-* Revenue forecasting
-* Data visualization
-* Feature engineering
-* Model comparison
-* Time-series analysis
-
----
-
-# 🛠 Technologies
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* XGBoost
-* Jupyter Notebook
-
----
 
 # 👥 Team
 
-Team Name: **The Gridbreakers**
+Team Name: Flowers 
 
 ---
 
