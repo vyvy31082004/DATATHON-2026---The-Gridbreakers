@@ -1,3 +1,4 @@
+python>=3.12
 pandas
 numpy
 matplotlib
@@ -6,4 +7,3 @@ lightgbm
 xgboost
 catboost
 shap
-python >3.10 
